@@ -14,6 +14,6 @@ Acest repository contine o selectie de proiecte dezvoltate in timpul facultatii 
 - **Descriere:** Algoritm pentru popularea unei matrice de dimensiune 2^N intr-un model "snake/zig-zag".
 - **Concepte:** Matrice, Puteri ale lui 2, Mapare coordonate.
 
-## Weekend Calculator (C)
+## Data & Time Logic System (C)
 - **Descriere:** Calculator pentru numarul de weekend-uri intre doua date calendaristice.
 - **Detalii:** Gestioneaza ani bisecti si constrangeri de timp Unix.
